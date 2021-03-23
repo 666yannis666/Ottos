@@ -1585,19 +1585,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":15,
-         "firstgid":641,
-         "image":"C:\/Users\/Yannis\/Downloads\/hps_logo (Original).jpg",
-         "imageheight":569,
-         "imagewidth":507,
-         "margin":0,
-         "name":"hps_logo (Original)",
-         "spacing":0,
-         "tilecount":255,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
