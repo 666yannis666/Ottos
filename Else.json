@@ -5,6 +5,10 @@
         {
          "height":32,
          "width":32
+        },
+     "export":
+        {
+         "target":"."
         }
     },
  "height":30,
@@ -29,7 +33,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -41,7 +45,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -52,7 +56,7 @@
          "name":"ceiling",
          "opacity":0.39,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
